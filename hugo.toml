@@ -1,0 +1,93 @@
+baseURL = "https://spinogambino-casino.ch/"
+defaultContentLanguage = "de"
+title = "Spinogambino"
+enableRobotsTXT = true
+buildFuture = true
+
+[pagination]
+pagerSize = 10
+
+[params]
+defaultRobotsMetaTag = "index, follow"
+description = ""
+keywords = []
+logo = "/images/logo.png"
+footerLogo = ""
+faviconPNG = "/images/favicon-32x32.png"
+playButtonText = "Jogar Agora"
+referralBaseUrl = "https://27d75jeosf.top/RC2TZM"
+activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
+demoIframeCode = ""
+
+[build]
+writeStats = true
+
+[params.organization]
+name = ""
+
+[params.contact]
+address_text = "Harriet-Reuter-Ring 5/4, 76503 Hansestadttralsund"
+address_url = "https://www.google.com/maps/search/?api=1&query=Harriet-Reuter-Ring+5%2F4%2C+76503+Hansestadttralsund"
+phone_display = "03187719919"
+phone_link = "tel:03187719919"
+email = "info@spinogambino-casino.ch"
+_locale = "de_DE"
+
+[params.contactForm]
+action = ""
+netlify = false
+
+[params.uiText]
+footerCopyright = "© {year} {siteTitle}. Alle Rechte vorbehalten."
+footerDisclaimerTitleRG = "VERANTWORTUNGSVOLLES SPIELEN"
+footerDisclaimerResponsible = "unterstützt einen verantwortungsvollen Ansatz beim Glücksspiel und arbeitet eng mit Partnern zusammen, die diesen fundamentalen Grundsatz teilen. Online-Glücksspiele sollen Freude und Unterhaltung bereiten, keine Angst oder Besorgnis über finanzielle Verluste verursachen. Wenn Sie sich beim Spielen auf unserer Plattform überfordert fühlen, machen Sie eine Pause, um die Kontrolle und Klarheit wiederzuerlangen."
+footerDisclaimerTitleAff = "VERANTWORTUNGSVOLL SPIELEN"
+footerDisclaimerAffiliate = "ist eine unabhängige Website, die nicht mit den von uns empfohlenen Ressourcen verbunden ist. Bevor Sie ein Casino besuchen oder eine Wette platzieren, stellen Sie sicher, dass Sie alle gesetzlichen und altersbedingten Anforderungen erfüllen. Unser Ziel ist es, Informationen und Unterhaltung mit Schwerpunkt auf Bildung bereitzustellen. Wenn Sie den Links folgen, beachten Sie, dass Sie unsere Website verlassen."
+menuHome = "Startseite"
+menuAbout = "Über uns"
+menuCasino = "Wo man spielt"
+menuDemo = "Demo"
+menuApp = "App"
+menuContacts = "Kontakt"
+menuCookiePolicy = "Cookie-Richtlinie"
+menuPrivacyPolicy = "Datenschutzbestimmungen"
+menuResponsibleGambling = "Verantwortungsvolles Spielen"
+menuTermsConditions = "AGB"
+playButtonText = "Spielen"
+contactPageTitle = "Kontakt"
+contactInfoTitle = "Kontaktinformationen"
+contactFormTitle = "Nachricht senden"
+contactLabelAddress = "Adresse"
+contactLabelPhone = "Telefon"
+contactLabelEmail = "E-Mail"
+contactLabelHours = "Öffnungszeiten"
+contactFormLabelName = "Ihr Name"
+contactFormLabelPhone = "Telefonnummer"
+contactFormLabelEmail = "E-Mail"
+contactFormLabelMessage = "Nachricht"
+contactFormButtonSubmit = "Nachricht senden"
+contactFormRequiredNotice = "Pflichtfelder"
+listReadMore = "Mehr lesen →"
+paginationPrevious = "« Zurück"
+paginationNext = "Weiter »"
+paginationAriaPrevious = "Vorherige Seite"
+paginationAriaNext = "Nächste Seite"
+paginationAriaGoToPage = "Gehe zu Seite {pageNumber}"
+tocTitle = "Inhaltsverzeichnis"
+breadcrumbHome = "Startseite"
+contactFormPlaceholderName = "Vorname Nachname"
+contactFormPlaceholderPhone = "Telefonnummer"
+contactFormPlaceholderEmail = "your.email@example.com"
+contactFormPlaceholderMessage = "Geben Sie hier Ihre Nachricht ein..."
+notFoundTitle = "404 Nicht gefunden"
+notFoundHeading = "Hoppla! Seite nicht gefunden."
+notFoundText = "Die von Ihnen gesuchte Seite existiert nicht."
+faqTitle = "Häufig gestellte Fragen"
+_language = "de"
+
+[build.buildStats]
+enable = true
+
+[build.cachebusters]
+enable = true
+sourceMaps = false
