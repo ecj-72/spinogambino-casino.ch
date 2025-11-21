@@ -86,7 +86,7 @@ faq:
 {{< play-button >}}
 {{< toc >}}
 
-Willkommen bei **Spinogambino**, der führenden Online-Casino-Plattform,
+Willkommen bei **[Spinogambino](https://spinogambino.es "Spinogambino")**, der führenden Online-Casino-Plattform,
 die speziell für anspruchsvolle Schweizer Spieler entwickelt wurde. Seit
 2021 steht **Spino Gambino** für erstklassige Unterhaltung, faire
 Spielbedingungen und aussergewöhnlichen Service. Mit einer
