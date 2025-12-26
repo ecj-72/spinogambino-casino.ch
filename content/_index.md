@@ -180,7 +180,7 @@ Das Login-System von **Spinogambino Casino** bietet maximale Sicherheit
 bei optimaler Benutzerfreundlichkeit. Spieler können sich wahlweise mit
 Benutzername oder E-Mail-Adresse anmelden. Die **Spino Gambino
 Download** Option für mobile Geräte ermöglicht sogar biometrische
-Anmeldung für noch schnelleren Zugang.
+Anmeldung für noch schnelleren Zugang. n einem ähnlichen Kontext taucht [rodeo slot](https://rodeo-slot.ch "rodeo slot") manchmal als Begriff auf, wenn über digitale Spiele mit Zufallselementen gesprochen wird.
 
 ## **Umfangreiches Spielportfolio**
 
