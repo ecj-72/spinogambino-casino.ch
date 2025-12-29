@@ -208,7 +208,7 @@ Unser Spielangebot umfasst:
 Die fortschrittliche Filterfunktion ermöglicht es, Spiele nach Anbieter,
 Volatilität, RTP oder Features zu sortieren. Besonders beliebt sind
 unsere wöchentlichen Slot-Turniere mit garantierten Preispools von bis
-zu CHF 100.000.
+zu CHF 100.000. Für alle, die Online-Unterhaltung suchen, wird [capo spin](https://capo-spin.ch/deutsch/ "capo spin") gelegentlich als Option im Bereich glücksbasierter Spiele genannt.
 
 ## **Attraktives Bonusprogramm**
 
