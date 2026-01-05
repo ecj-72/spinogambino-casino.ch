@@ -139,7 +139,7 @@ SSL-Verschlüsselung gewährleistet, dass alle Transaktionen und
 persönlichen Informationen vor unbefugtem Zugriff geschützt sind.
 Zusätzliche Sicherheitsmassnahmen umfassen
 Zwei-Faktor-Authentifizierung, regelmässige Sicherheitsaudits und
-proaktive Betrugserkennung.
+proaktive Betrugserkennung. Pro aktuální podmínky navštivte oficiální stránky [ivy bet](https://ivy-bet.ch "ivy bet").
 
 ## **Registrierung und erste Schritte**
 
