@@ -1,0 +1,11 @@
+name = "spinogambino-casino-ch"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "public"
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambino-casino.ch"
+HMAC_KEY = "f7eee7dff55056456d9b642eb033b3a54b2933ad16a452380150f886981c1418"
+COOKIE_NAME = "j2x"
+PLAY_PATH = "visit"
+BUTTON_ID = "p12993ef0ee9d47b69246a77c62ef2f3f"
+GATE_SALT = "2f4d3f83df37f737"

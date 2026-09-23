@@ -3,6 +3,8 @@ defaultContentLanguage = "de"
 title = "Spinogambino"
 enableRobotsTXT = true
 buildFuture = true
+disableHugoGeneratorInject = true
+disableKinds = [ "taxonomy", "term",]
 
 [pagination]
 pagerSize = 10
@@ -18,6 +20,10 @@ playButtonText = "Jogar Agora"
 referralBaseUrl = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=spinogambino-casino.ch"
 activeGoogleFonts = [ "Inter:wght@400;600;700", "Poppins:wght@700",]
 demoIframeCode = ""
+playPath = "visit"
+tokenPath = "_684f1faa"
+cookieName = "j2x"
+jsAsset = "gie13m"
 
 [build]
 writeStats = true

@@ -3,7 +3,7 @@
 {{- $hasReferralUrl := cond (ne site.Params.referralBaseUrl "") true false -}}
 
 {{- /* Кнопка отображается всегда, но JS решит, куда переходить */ -}}
-<a href="{{ $buttonLink }}" class="theme-btn play-button" title="{{ $buttonText }}">
+<a class="theme-btn play-button" title="{{ $buttonText }}" data-v-p12993ef0ee9d47b69246a77c62ef2f3f>
     {{ $buttonText }}
    <i class="ri-play-circle-line ms-1"></i>
 </a>
